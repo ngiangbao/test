@@ -1,0 +1,8 @@
+{
+  "name": "VN Stock Insight",
+  "description": "Trợ lý phân tích cổ phiếu Việt Nam bằng AI, theo dõi thị trường, bản đồ nhiệt ngành và bộ lọc kỹ thuật.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
